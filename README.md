@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lioomatty
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in JDM Cars, Website Development and Racing
+- 🌱 I’m currently learning Javascript frameworks such as React.JS
+- 💞️ I'm not looking to collaborate right now
 - 📫 How to reach me matthewmcgee2005@gmail.com
 
 <!---
